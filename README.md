@@ -36,5 +36,5 @@ Press 's' to save image and 'q' to quit.
 ## Pose estimation
 
 ```bash
-python main.py -t estimation
+python main.py -t estimation -c ./calib_data
 ```
